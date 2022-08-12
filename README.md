@@ -4,7 +4,7 @@ Offers automatic scss and index.ts file creation with optional creation of props
 
 ## Instalation
 1) Download latest ```.vsix``` from https://github.com/51MARGL/VSReactComponentTemplates/releases
-2) Install extension for VS.
+2) Alternatively install from marketplace: https://marketplace.visualstudio.com/items?itemName=51MARGL.ReactComponentTemplates
 
 ## How to use
  1) Add New Item  
