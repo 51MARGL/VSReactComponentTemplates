@@ -6,25 +6,24 @@
         <Description xml:space="preserve">Adds an easy way to create and setup Typescript React Component in Visual Studio.  
 Offers automatic scss and index.ts file creation with optional creation of props type.</Description>
         <MoreInfo>https://github.com/51MARGL/VSReactComponentTemplates</MoreInfo>
-        <Icon>ReactComponentTemplate.ico</Icon>
     </Metadata>
     <Installation>
-        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 18.0)">
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
             <ProductArchitecture>amd64</ProductArchitecture>
         </InstallationTarget>
-        <InstallationTarget Version="[16.0, 18.0)" Id="Microsoft.VisualStudio.Pro">
+        <InstallationTarget Version="[17.0, 18.0)" Id="Microsoft.VisualStudio.Pro">
             <ProductArchitecture>amd64</ProductArchitecture>
         </InstallationTarget>
-        <InstallationTarget Version="[16.0,18.0)" Id="Microsoft.VisualStudio.Enterprise">
+        <InstallationTarget Version="[17.0,18.0)" Id="Microsoft.VisualStudio.Enterprise">
             <ProductArchitecture>amd64</ProductArchitecture>
         </InstallationTarget>
-        <InstallationTarget Version="[16.0,18.0)" Id="Microsoft.VisualStudio.Community">
+        <InstallationTarget Version="[16.0,17.0)" Id="Microsoft.VisualStudio.Community">
             <ProductArchitecture>x86</ProductArchitecture>
         </InstallationTarget>
-        <InstallationTarget Version="[16.0,18.0)" Id="Microsoft.VisualStudio.Pro">
+        <InstallationTarget Version="[16.0,17.0)" Id="Microsoft.VisualStudio.Pro">
             <ProductArchitecture>x86</ProductArchitecture>
         </InstallationTarget>
-        <InstallationTarget Version="[16.0,18.0)" Id="Microsoft.VisualStudio.Enterprise">
+        <InstallationTarget Version="[16.0,17.0)" Id="Microsoft.VisualStudio.Enterprise">
             <ProductArchitecture>x86</ProductArchitecture>
         </InstallationTarget>
     </Installation>
