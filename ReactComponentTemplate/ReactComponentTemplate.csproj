@@ -57,7 +57,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="ReactComponentTemplate.ico" />
     <None Include="Templates\ComponentTemplate.scss" />
   </ItemGroup>
   <ItemGroup>
@@ -66,6 +65,9 @@
   <ItemGroup>
     <TypeScriptCompile Include="Templates\ComponentTemplate.tsx" />
     <TypeScriptCompile Include="Templates\index.ts" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ReactComponentTemplate.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(VSToolsPath)\VSSDK\Microsoft.VsSDK.targets" Condition="'$(VSToolsPath)' != ''" />

@@ -3,7 +3,7 @@
 	<TemplateData>
 		<DefaultName>Component.tsx</DefaultName>
 		<Name>React Component Template</Name>
-		<Description>Create simple configurable React Component Template</Description>
+		<Description>Create simple configurable React Component</Description>
 		<ProjectType>JavaScript</ProjectType>
 		<Icon>ReactComponentTemplate.ico</Icon>
 	</TemplateData>

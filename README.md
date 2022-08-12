@@ -1,5 +1,5 @@
 # VSReactComponentTemplates
-Adds easy to create and setup Typescript React Templates for Visual Studio. 
+Adds an easy way to create and setup Typescript React Component in Visual Studio.  
 Offers automatic scss and index.ts file creation with optional creation of props type.
 
 ## Instalation
