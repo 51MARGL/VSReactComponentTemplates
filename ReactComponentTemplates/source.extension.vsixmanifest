@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="ReactComponentTemplates.e2a6ace4-82ab-4c9c-82b9-584f68db73c6" Version="1.0" Language="en-US" Publisher="51 MAR GL" />
+        <Identity Id="ReactComponentTemplates.e2a6ace4-82ab-4c9c-82b9-584f68db73c6" Version="1.0" Language="en-US" Publisher="51MARGL" />
         <DisplayName>ReactComponentTemplates</DisplayName>
         <Description xml:space="preserve">Adds easy to create and setup Typescript React Templates for Visual Studio. Offers automatic scss and index.ts creation.</Description>
         <MoreInfo>https://github.com/51MARGL/VSReactComponentTemplates</MoreInfo>
