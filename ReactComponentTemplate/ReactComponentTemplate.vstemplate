@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VSTemplate Version="3.0.0" Type="Item" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
+	<TemplateData>
+		<DefaultName>Component.tsx</DefaultName>
+		<Name>React Component Template</Name>
+		<Description>Create simple configurable React Component Template</Description>
+		<ProjectType>JavaScript</ProjectType>
+		<Icon>ReactComponentTemplate.ico</Icon>
+	</TemplateData>
+	<TemplateContent>
+		<References />
+		<ProjectItem SubType="" TargetFileName="$folder$$safeitemname$.tsx" ReplaceParameters="true">Templates\ComponentTemplate.tsx</ProjectItem>
+		<ProjectItem SubType="" TargetFileName="$folder$$safeitemname$.scss" ReplaceParameters="true">Templates\ComponentTemplate.scss</ProjectItem>
+		<ProjectItem SubType="" TargetFileName="$folder$index.ts" ReplaceParameters="true">Templates\index.ts</ProjectItem>
+	</TemplateContent>
+	<WizardExtension>
+		<Assembly>ReactComponentWizard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=00b39aada5be9afa</Assembly>
+		<FullClassName>ReactComponentWizard.ReactComponentWizard</FullClassName>
+	</WizardExtension>
+</VSTemplate>
