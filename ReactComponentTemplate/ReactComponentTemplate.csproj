@@ -67,6 +67,8 @@
     <TypeScriptCompile Include="Templates\index.ts" />
   </ItemGroup>
   <ItemGroup>
+    <VSTemplate Include="ReactComponentTemplateNode.vstemplate" />
+    <VSTemplate Include="ReactComponentTemplateCore.vstemplate" />
     <Content Include="ReactComponentTemplate.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
